@@ -8,7 +8,7 @@
 * [About](#About)
 * [Features](#features)
 * [Dataset](#dataset)
-
+* [Usage](#usage)
 
 
 <a id="About"></a>
@@ -25,4 +25,6 @@ This project deals with the current rising problem. In this project we have take
 ## Dataset
 The dataset is public dataset taken from the Kaggle. This dataset contains anonymized data from Hospital Sírio-Libanês, São Paulo and Brasilia. All data were anonymized following the best international practices and recommendations. 
 
-
+<a id="usage"></a>
+## Usage
+The project gives prediction with an accuaracy of more than 90%. An excel file is to be uploaded on the web app which gives a csv file, containing the prediction result of the patients whether they need ventilator/ICU or not.
